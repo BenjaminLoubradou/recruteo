@@ -1,0 +1,17 @@
+{
+    "name": "cisco/recruteo",
+    "description": "\"projet recruteo\"",
+    "type": "projet",
+    "authors": [
+        {
+            "name": "benjamin",
+            "email": "loubradou.benjamin@hotmail.fr"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+}
